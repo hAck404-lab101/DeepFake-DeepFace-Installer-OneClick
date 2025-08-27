@@ -12,6 +12,17 @@ With this installer, you don’t need to be a coding expert. Whether you’re ru
 * **Fast & Reliable** – Cuts installation time from hours to minutes.
 * **Beginner-Friendly** – Perfect for newcomers to AI/Deepfake tools.
 
+### System requirements
+any DirectX12 compatible graphics card
+
+(Recommended RTX 2070+ / Radeon RX 5700 XT+ )
+
+Modern CPU with AVX instructions
+
+4GB RAM, 32GB+ paging file
+
+Windows 10
+
 ### Why This Matters
 
 Deep-Live-Cam is a groundbreaking tool, but accessibility has always been the barrier. By reducing the setup complexity, this installer opens the door to more people—whether you’re experimenting with AI, creating visual effects, or exploring academic research.
